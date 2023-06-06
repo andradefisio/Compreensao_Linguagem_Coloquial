@@ -10,6 +10,8 @@ Para consumo deste aplicativo é necessário quem está desenvolvendo a soluçã
 
 Abaixo segue o link do vídeo que fiz sobre a aplicação de reconhecimento de texto em linguagem coloquial no MS AZ. Todo a solução é praticamente "low-code" desenvolvida no "Language" do MS AZ. 
 
+![Cópia de video_language_model](https://github.com/andradefisio/Compreensao_Linguagem_Coloquial/assets/61251913/bd39a2e6-e294-4311-be54-3882040cf83a)
+
 Link:
 https://1drv.ms/v/s!AgbOiNG5zm7jhKU7FbjZ0twegQYI_g?e=2aOrpQ
 
